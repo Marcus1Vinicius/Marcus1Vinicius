@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/121438145/98ff9041-5b69-4c63-a64c-f83f9b5cb2ac"/>
+<img align="center" src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/121438145/98ff9041-5b69-4c63-a64c-f83f9b5cb2ac"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou <strong>técnico em informática para internet pelo IFRN</strong> e estou ingressando nessa jornada dev, <br> aqui você encontra meus projetos e um pouco do meu eu dev junior, sejam muito bem vindo(a)</p>&nbsp;
+<p align="center"><br>Sou <strong>técnico em informática para internet pelo IFRN</strong> e estou ingressando nessa jornada dev, <br> aqui você encontra meus projetos e um pouco do meu eu dev junior, sejam muito bem vindo(a)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
