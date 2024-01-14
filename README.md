@@ -1,5 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/121438145/98ff9041-5b69-4c63-a64c-f83f9b5cb2ac"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou <strong>técnico em informática para internet pelo IFRN</strong> e estou ingressando nessa jornada dev, <br> aqui você encontra meus projetos e um pouco do meu eu dev junior, sejam muito bem vindo(a)</p>&nbsp;
