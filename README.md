@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou técnico em informática para internet pelo IFRN e estou ingressando nessa jornada dev, <br> aqui você encontra meus projetos e um pouco do meu eu dev junior, sejam muito bem vindo(a)</p>&nbsp;
+<p align="center">Sou <strong>técnico em informática para internet pelo IFRN</strong> e estou ingressando nessa jornada dev, <br> aqui você encontra meus projetos e um pouco do meu eu dev junior, sejam muito bem vindo(a)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
