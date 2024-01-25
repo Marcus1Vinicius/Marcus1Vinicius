@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/121438145/98ff9041-5b69-4c63-a64c-f83f9b5cb2ac"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><br>👋 Olá, muito massa te receber no meu perfil, sou um desenvolvedor full stack Django com habilidades em HTML, CSS e JavaScript. Recentemente, concluí minha formação técnica em Informática para Internet pelo IFRN, e aqui você vê meus projetos e o inicio da minha jornada como dev, fique a vontade e espero que a gente converse.</p>&nbsp;
+<p align="center"><br>👋 Olá, muito massa te receber no meu perfil, sou um desenvolvedor Backend Python com habilidades em HTML, CSS e JavaScript. Recentemente, concluí minha formação técnica em Informática para Internet pelo IFRN, e aqui você vê meus projetos e o inicio da minha jornada como dev, fique a vontade e espero que a gente converse.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
