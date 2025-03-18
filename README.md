@@ -1,6 +1,6 @@
 <div>
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil, muito massa te receber aqui!</h1>
-  <p>Sou um desenvolvedor FullStack Python, com habilidades em HTML, CSS e JavaScript. Formado como Técnico em Informática para Internet pelo IFRN e atualemnte cursando TI na UFRN. Aqui você pode acompanhar meus projetos e minha jornada como desenvolvedor.</p>
+  <p>Sou um desenvolvedor FullStack Python, com habilidades em HTML, CSS e JavaScript. Formado como Técnico em Informática para Internet pelo IFRN e atualmente cursando TI na UFRN. Aqui você pode acompanhar meus projetos e minha jornada como desenvolvedor.</p>
 </div>
 
 ---
