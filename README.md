@@ -9,7 +9,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Marcus1Vinicius&theme=radical&mode=weekly"/>
 </div>
 
 ---
