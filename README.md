@@ -9,6 +9,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus1Vinicius&theme=radical&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
