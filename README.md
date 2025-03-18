@@ -3,12 +3,12 @@
 
 <p align="center"><br>👋 Olá, muito massa te receber no meu perfil, sou um desenvolvedor FullStack Python com habilidades em HTML, CSS e JavaScript. Formado como técnico em Informática para Internet pelo IFRN, e aqui você vê meus projetos e o inicio da minha jornada como dev, fique a vontade e espero que a gente converse.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
- </div>
- 
- &nbsp;
- &nbsp;
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
+</p>
+
+&nbsp;&nbsp;
+
 
 
 
