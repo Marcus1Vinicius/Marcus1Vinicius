@@ -7,9 +7,8 @@
 
 ## 🚀 Minhas Estatísticas:
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
