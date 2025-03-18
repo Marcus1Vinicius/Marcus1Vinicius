@@ -1,5 +1,3 @@
-<img align="center" src="https://github.com/Marcus1Vinicius/Marcus1Vinicius/assets/121438145/98ff9041-5b69-4c63-a64c-f83f9b5cb2ac"/>
-
 <div align="center">
   <h1>👋 Olá, seja bem-vindo ao meu perfil!</h1>
   <p>Sou um desenvolvedor FullStack Python, com habilidades em HTML, CSS e JavaScript. Formado como Técnico em Informática para Internet pelo IFRN. Aqui você pode acompanhar meus projetos e minha jornada como desenvolvedor.</p>
