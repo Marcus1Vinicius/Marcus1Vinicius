@@ -4,10 +4,9 @@
 <p align="center"><br>👋 Olá, muito massa te receber no meu perfil, sou um desenvolvedor FullStack Python com habilidades em HTML, CSS e JavaScript. Formado como técnico em Informática para Internet pelo IFRN, e aqui você vê meus projetos e o inicio da minha jornada como dev, fique a vontade e espero que a gente converse.</p>&nbsp;
 
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=Marcus1Vinicius&theme=radical&mode=weekly" />
 </p>
 
-&nbsp;&nbsp;
 
 
 
