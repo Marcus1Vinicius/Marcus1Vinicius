@@ -7,8 +7,9 @@
 
 ## 🚀 Minhas Estatísticas:
 
-<div>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus1Vinicius&layout=compact&theme=radical"/>
 </div>
 
 ---
