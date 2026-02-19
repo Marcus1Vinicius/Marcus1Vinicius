@@ -8,7 +8,7 @@
 ## 🚀 Minhas Estatísticas:
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcus1Vinicius&show_icons=true&theme=radical"/>
 </div>
 
 ---
@@ -27,11 +27,15 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Astah UML](https://img.shields.io/badge/Astah_UML-00BFFF?style=for-the-badge&logo=uml&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ### 📚 O que estou estudando no momento:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![JAVA](https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![Astah UML](https://img.shields.io/badge/Astah_UML-00BFFF?style=for-the-badge&logo=uml&logoColor=white)
+
 
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
